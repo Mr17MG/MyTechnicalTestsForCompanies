@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>arrow-right.svg</file>
+        <file>bookmark.svg</file>
+        <file>grid-box.svg</file>
+        <file>layers.svg</file>
+        <file>magnify.svg</file>
+        <file>map-marker.svg</file>
+        <file>order-alphabetical-ascending.svg</file>
+        <file>share-variant.svg</file>
+        <file>star-box.svg</file>
+    </qresource>
+</RCC>

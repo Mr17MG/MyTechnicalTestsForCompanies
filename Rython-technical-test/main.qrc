@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Rython/Components/C_Header.qml</file>
+        <file>Rython/Components/qmldir</file>
+        <file>Rython/Components/C_HeaderButton.qml</file>
+        <file>API.qml</file>
+        <file>vazir.ttf</file>
+    </qresource>
+</RCC>

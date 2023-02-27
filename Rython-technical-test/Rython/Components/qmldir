@@ -1,0 +1,5 @@
+module Rython.Components
+AppHeader 1.0 C_Header.qml
+C_HeaderButton 1.0 C_HeaderButton.qml
+
+typeinfo Rython.Components.qmltypes
