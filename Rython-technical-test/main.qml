@@ -1,5 +1,6 @@
 import QtQuick 2.15
 import QtQuick.Controls 2.15
+import QtQuick.Controls.Material 2.15
 import QtQuick.Layouts 1.15
 
 import Rython.Components 1.0
@@ -11,7 +12,7 @@ ApplicationWindow {
     minimumWidth: 360
     minimumHeight: 300
     visible: true
-    title: qsTr("Hello World")
+    title: qsTr("Rython technical test")
     Material.primary: Material.Pink
     FontLoader{
         id: appFont
